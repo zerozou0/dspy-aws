@@ -15,6 +15,8 @@ import dsp
 
 settings = dsp.settings
 
+Bedrock = dsp.Bedrock
+
 OpenAI = dsp.GPT3
 Cohere = dsp.Cohere
 ColBERTv2 = dsp.ColBERTv2

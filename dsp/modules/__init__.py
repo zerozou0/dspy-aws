@@ -1,4 +1,5 @@
 from .cache_utils import *
+from .bedrock import Bedrock
 from .gpt3 import *
 from .hf import HFModel
 from .colbertv2 import ColBERTv2
